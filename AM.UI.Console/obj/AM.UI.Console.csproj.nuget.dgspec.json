@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mouna\\Desktop\\Desktop\\sem2\\.net\\GitYasmin\\Patrons-de-conceptions--Couche-services\\AM.UI.Console\\AM.UI.Console.csproj": {}
+    "D:\\Esprit\\4ème année\\Semestre 2\\.net\\AirM\\AM.UI.Console\\AM.UI.Console.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mouna\\Desktop\\Desktop\\sem2\\.net\\GitYasmin\\Patrons-de-conceptions--Couche-services\\AM.Core.Domain\\AM.Core.Domain.csproj": {
+    "D:\\Esprit\\4ème année\\Semestre 2\\.net\\AirM\\AM.Core.Domain\\AM.Core.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mouna\\Desktop\\Desktop\\sem2\\.net\\GitYasmin\\Patrons-de-conceptions--Couche-services\\AM.Core.Domain\\AM.Core.Domain.csproj",
+        "projectUniqueName": "D:\\Esprit\\4ème année\\Semestre 2\\.net\\AirM\\AM.Core.Domain\\AM.Core.Domain.csproj",
         "projectName": "AM.Core.Domain",
-        "projectPath": "C:\\Users\\Mouna\\Desktop\\Desktop\\sem2\\.net\\GitYasmin\\Patrons-de-conceptions--Couche-services\\AM.Core.Domain\\AM.Core.Domain.csproj",
-        "packagesPath": "C:\\Users\\Mouna\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mouna\\Desktop\\Desktop\\sem2\\.net\\GitYasmin\\Patrons-de-conceptions--Couche-services\\AM.Core.Domain\\obj\\",
+        "projectPath": "D:\\Esprit\\4ème année\\Semestre 2\\.net\\AirM\\AM.Core.Domain\\AM.Core.Domain.csproj",
+        "packagesPath": "C:\\Users\\Amen\\.nuget\\packages\\",
+        "outputPath": "D:\\Esprit\\4ème année\\Semestre 2\\.net\\AirM\\AM.Core.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Mouna\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Amen\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -60,24 +60,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Mouna\\Desktop\\Desktop\\sem2\\.net\\GitYasmin\\Patrons-de-conceptions--Couche-services\\AM.Core.Extensions\\AM.Core.Extensions.csproj": {
+    "D:\\Esprit\\4ème année\\Semestre 2\\.net\\AirM\\AM.Core.Extensions\\AM.Core.Extensions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mouna\\Desktop\\Desktop\\sem2\\.net\\GitYasmin\\Patrons-de-conceptions--Couche-services\\AM.Core.Extensions\\AM.Core.Extensions.csproj",
+        "projectUniqueName": "D:\\Esprit\\4ème année\\Semestre 2\\.net\\AirM\\AM.Core.Extensions\\AM.Core.Extensions.csproj",
         "projectName": "AM.Core.Extensions",
-        "projectPath": "C:\\Users\\Mouna\\Desktop\\Desktop\\sem2\\.net\\GitYasmin\\Patrons-de-conceptions--Couche-services\\AM.Core.Extensions\\AM.Core.Extensions.csproj",
-        "packagesPath": "C:\\Users\\Mouna\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mouna\\Desktop\\Desktop\\sem2\\.net\\GitYasmin\\Patrons-de-conceptions--Couche-services\\AM.Core.Extensions\\obj\\",
+        "projectPath": "D:\\Esprit\\4ème année\\Semestre 2\\.net\\AirM\\AM.Core.Extensions\\AM.Core.Extensions.csproj",
+        "packagesPath": "C:\\Users\\Amen\\.nuget\\packages\\",
+        "outputPath": "D:\\Esprit\\4ème année\\Semestre 2\\.net\\AirM\\AM.Core.Extensions\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Mouna\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Amen\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -93,8 +93,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Mouna\\Desktop\\Desktop\\sem2\\.net\\GitYasmin\\Patrons-de-conceptions--Couche-services\\AM.Core.Domain\\AM.Core.Domain.csproj": {
-                "projectPath": "C:\\Users\\Mouna\\Desktop\\Desktop\\sem2\\.net\\GitYasmin\\Patrons-de-conceptions--Couche-services\\AM.Core.Domain\\AM.Core.Domain.csproj"
+              "D:\\Esprit\\4ème année\\Semestre 2\\.net\\AirM\\AM.Core.Domain\\AM.Core.Domain.csproj": {
+                "projectPath": "D:\\Esprit\\4ème année\\Semestre 2\\.net\\AirM\\AM.Core.Domain\\AM.Core.Domain.csproj"
               }
             }
           }
@@ -124,24 +124,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Mouna\\Desktop\\Desktop\\sem2\\.net\\GitYasmin\\Patrons-de-conceptions--Couche-services\\AM.Core.Interfaces\\AM.Core.Interfaces.csproj": {
+    "D:\\Esprit\\4ème année\\Semestre 2\\.net\\AirM\\AM.Core.Interfaces\\AM.Core.Interfaces.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mouna\\Desktop\\Desktop\\sem2\\.net\\GitYasmin\\Patrons-de-conceptions--Couche-services\\AM.Core.Interfaces\\AM.Core.Interfaces.csproj",
+        "projectUniqueName": "D:\\Esprit\\4ème année\\Semestre 2\\.net\\AirM\\AM.Core.Interfaces\\AM.Core.Interfaces.csproj",
         "projectName": "AM.Core.Interfaces",
-        "projectPath": "C:\\Users\\Mouna\\Desktop\\Desktop\\sem2\\.net\\GitYasmin\\Patrons-de-conceptions--Couche-services\\AM.Core.Interfaces\\AM.Core.Interfaces.csproj",
-        "packagesPath": "C:\\Users\\Mouna\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mouna\\Desktop\\Desktop\\sem2\\.net\\GitYasmin\\Patrons-de-conceptions--Couche-services\\AM.Core.Interfaces\\obj\\",
+        "projectPath": "D:\\Esprit\\4ème année\\Semestre 2\\.net\\AirM\\AM.Core.Interfaces\\AM.Core.Interfaces.csproj",
+        "packagesPath": "C:\\Users\\Amen\\.nuget\\packages\\",
+        "outputPath": "D:\\Esprit\\4ème année\\Semestre 2\\.net\\AirM\\AM.Core.Interfaces\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Mouna\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Amen\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -184,24 +184,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Mouna\\Desktop\\Desktop\\sem2\\.net\\GitYasmin\\Patrons-de-conceptions--Couche-services\\AM.Core.Services\\AM.Core.Services.csproj": {
+    "D:\\Esprit\\4ème année\\Semestre 2\\.net\\AirM\\AM.Core.Services\\AM.Core.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mouna\\Desktop\\Desktop\\sem2\\.net\\GitYasmin\\Patrons-de-conceptions--Couche-services\\AM.Core.Services\\AM.Core.Services.csproj",
+        "projectUniqueName": "D:\\Esprit\\4ème année\\Semestre 2\\.net\\AirM\\AM.Core.Services\\AM.Core.Services.csproj",
         "projectName": "AM.Core.Services",
-        "projectPath": "C:\\Users\\Mouna\\Desktop\\Desktop\\sem2\\.net\\GitYasmin\\Patrons-de-conceptions--Couche-services\\AM.Core.Services\\AM.Core.Services.csproj",
-        "packagesPath": "C:\\Users\\Mouna\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mouna\\Desktop\\Desktop\\sem2\\.net\\GitYasmin\\Patrons-de-conceptions--Couche-services\\AM.Core.Services\\obj\\",
+        "projectPath": "D:\\Esprit\\4ème année\\Semestre 2\\.net\\AirM\\AM.Core.Services\\AM.Core.Services.csproj",
+        "packagesPath": "C:\\Users\\Amen\\.nuget\\packages\\",
+        "outputPath": "D:\\Esprit\\4ème année\\Semestre 2\\.net\\AirM\\AM.Core.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Mouna\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Amen\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -217,14 +217,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Mouna\\Desktop\\Desktop\\sem2\\.net\\GitYasmin\\Patrons-de-conceptions--Couche-services\\AM.Core.Domain\\AM.Core.Domain.csproj": {
-                "projectPath": "C:\\Users\\Mouna\\Desktop\\Desktop\\sem2\\.net\\GitYasmin\\Patrons-de-conceptions--Couche-services\\AM.Core.Domain\\AM.Core.Domain.csproj"
+              "D:\\Esprit\\4ème année\\Semestre 2\\.net\\AirM\\AM.Core.Domain\\AM.Core.Domain.csproj": {
+                "projectPath": "D:\\Esprit\\4ème année\\Semestre 2\\.net\\AirM\\AM.Core.Domain\\AM.Core.Domain.csproj"
               },
-              "C:\\Users\\Mouna\\Desktop\\Desktop\\sem2\\.net\\GitYasmin\\Patrons-de-conceptions--Couche-services\\AM.Core.Interfaces\\AM.Core.Interfaces.csproj": {
-                "projectPath": "C:\\Users\\Mouna\\Desktop\\Desktop\\sem2\\.net\\GitYasmin\\Patrons-de-conceptions--Couche-services\\AM.Core.Interfaces\\AM.Core.Interfaces.csproj"
+              "D:\\Esprit\\4ème année\\Semestre 2\\.net\\AirM\\AM.Core.Interfaces\\AM.Core.Interfaces.csproj": {
+                "projectPath": "D:\\Esprit\\4ème année\\Semestre 2\\.net\\AirM\\AM.Core.Interfaces\\AM.Core.Interfaces.csproj"
               },
-              "C:\\Users\\Mouna\\Desktop\\Desktop\\sem2\\.net\\GitYasmin\\Patrons-de-conceptions--Couche-services\\AM.Data\\AM.Data.csproj": {
-                "projectPath": "C:\\Users\\Mouna\\Desktop\\Desktop\\sem2\\.net\\GitYasmin\\Patrons-de-conceptions--Couche-services\\AM.Data\\AM.Data.csproj"
+              "D:\\Esprit\\4ème année\\Semestre 2\\.net\\AirM\\AM.Data\\AM.Data.csproj": {
+                "projectPath": "D:\\Esprit\\4ème année\\Semestre 2\\.net\\AirM\\AM.Data\\AM.Data.csproj"
               }
             }
           }
@@ -254,24 +254,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Mouna\\Desktop\\Desktop\\sem2\\.net\\GitYasmin\\Patrons-de-conceptions--Couche-services\\AM.Data\\AM.Data.csproj": {
+    "D:\\Esprit\\4ème année\\Semestre 2\\.net\\AirM\\AM.Data\\AM.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mouna\\Desktop\\Desktop\\sem2\\.net\\GitYasmin\\Patrons-de-conceptions--Couche-services\\AM.Data\\AM.Data.csproj",
+        "projectUniqueName": "D:\\Esprit\\4ème année\\Semestre 2\\.net\\AirM\\AM.Data\\AM.Data.csproj",
         "projectName": "AM.Data",
-        "projectPath": "C:\\Users\\Mouna\\Desktop\\Desktop\\sem2\\.net\\GitYasmin\\Patrons-de-conceptions--Couche-services\\AM.Data\\AM.Data.csproj",
-        "packagesPath": "C:\\Users\\Mouna\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mouna\\Desktop\\Desktop\\sem2\\.net\\GitYasmin\\Patrons-de-conceptions--Couche-services\\AM.Data\\obj\\",
+        "projectPath": "D:\\Esprit\\4ème année\\Semestre 2\\.net\\AirM\\AM.Data\\AM.Data.csproj",
+        "packagesPath": "C:\\Users\\Amen\\.nuget\\packages\\",
+        "outputPath": "D:\\Esprit\\4ème année\\Semestre 2\\.net\\AirM\\AM.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Mouna\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Amen\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -287,11 +287,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Mouna\\Desktop\\Desktop\\sem2\\.net\\GitYasmin\\Patrons-de-conceptions--Couche-services\\AM.Core.Domain\\AM.Core.Domain.csproj": {
-                "projectPath": "C:\\Users\\Mouna\\Desktop\\Desktop\\sem2\\.net\\GitYasmin\\Patrons-de-conceptions--Couche-services\\AM.Core.Domain\\AM.Core.Domain.csproj"
+              "D:\\Esprit\\4ème année\\Semestre 2\\.net\\AirM\\AM.Core.Domain\\AM.Core.Domain.csproj": {
+                "projectPath": "D:\\Esprit\\4ème année\\Semestre 2\\.net\\AirM\\AM.Core.Domain\\AM.Core.Domain.csproj"
               },
-              "C:\\Users\\Mouna\\Desktop\\Desktop\\sem2\\.net\\GitYasmin\\Patrons-de-conceptions--Couche-services\\AM.Core.Interfaces\\AM.Core.Interfaces.csproj": {
-                "projectPath": "C:\\Users\\Mouna\\Desktop\\Desktop\\sem2\\.net\\GitYasmin\\Patrons-de-conceptions--Couche-services\\AM.Core.Interfaces\\AM.Core.Interfaces.csproj"
+              "D:\\Esprit\\4ème année\\Semestre 2\\.net\\AirM\\AM.Core.Interfaces\\AM.Core.Interfaces.csproj": {
+                "projectPath": "D:\\Esprit\\4ème année\\Semestre 2\\.net\\AirM\\AM.Core.Interfaces\\AM.Core.Interfaces.csproj"
               }
             }
           }
@@ -341,24 +341,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Mouna\\Desktop\\Desktop\\sem2\\.net\\GitYasmin\\Patrons-de-conceptions--Couche-services\\AM.UI.Console\\AM.UI.Console.csproj": {
+    "D:\\Esprit\\4ème année\\Semestre 2\\.net\\AirM\\AM.UI.Console\\AM.UI.Console.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mouna\\Desktop\\Desktop\\sem2\\.net\\GitYasmin\\Patrons-de-conceptions--Couche-services\\AM.UI.Console\\AM.UI.Console.csproj",
+        "projectUniqueName": "D:\\Esprit\\4ème année\\Semestre 2\\.net\\AirM\\AM.UI.Console\\AM.UI.Console.csproj",
         "projectName": "AM.UI.Console",
-        "projectPath": "C:\\Users\\Mouna\\Desktop\\Desktop\\sem2\\.net\\GitYasmin\\Patrons-de-conceptions--Couche-services\\AM.UI.Console\\AM.UI.Console.csproj",
-        "packagesPath": "C:\\Users\\Mouna\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mouna\\Desktop\\Desktop\\sem2\\.net\\GitYasmin\\Patrons-de-conceptions--Couche-services\\AM.UI.Console\\obj\\",
+        "projectPath": "D:\\Esprit\\4ème année\\Semestre 2\\.net\\AirM\\AM.UI.Console\\AM.UI.Console.csproj",
+        "packagesPath": "C:\\Users\\Amen\\.nuget\\packages\\",
+        "outputPath": "D:\\Esprit\\4ème année\\Semestre 2\\.net\\AirM\\AM.UI.Console\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Mouna\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Amen\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -374,20 +374,20 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Mouna\\Desktop\\Desktop\\sem2\\.net\\GitYasmin\\Patrons-de-conceptions--Couche-services\\AM.Core.Domain\\AM.Core.Domain.csproj": {
-                "projectPath": "C:\\Users\\Mouna\\Desktop\\Desktop\\sem2\\.net\\GitYasmin\\Patrons-de-conceptions--Couche-services\\AM.Core.Domain\\AM.Core.Domain.csproj"
+              "D:\\Esprit\\4ème année\\Semestre 2\\.net\\AirM\\AM.Core.Domain\\AM.Core.Domain.csproj": {
+                "projectPath": "D:\\Esprit\\4ème année\\Semestre 2\\.net\\AirM\\AM.Core.Domain\\AM.Core.Domain.csproj"
               },
-              "C:\\Users\\Mouna\\Desktop\\Desktop\\sem2\\.net\\GitYasmin\\Patrons-de-conceptions--Couche-services\\AM.Core.Extensions\\AM.Core.Extensions.csproj": {
-                "projectPath": "C:\\Users\\Mouna\\Desktop\\Desktop\\sem2\\.net\\GitYasmin\\Patrons-de-conceptions--Couche-services\\AM.Core.Extensions\\AM.Core.Extensions.csproj"
+              "D:\\Esprit\\4ème année\\Semestre 2\\.net\\AirM\\AM.Core.Extensions\\AM.Core.Extensions.csproj": {
+                "projectPath": "D:\\Esprit\\4ème année\\Semestre 2\\.net\\AirM\\AM.Core.Extensions\\AM.Core.Extensions.csproj"
               },
-              "C:\\Users\\Mouna\\Desktop\\Desktop\\sem2\\.net\\GitYasmin\\Patrons-de-conceptions--Couche-services\\AM.Core.Interfaces\\AM.Core.Interfaces.csproj": {
-                "projectPath": "C:\\Users\\Mouna\\Desktop\\Desktop\\sem2\\.net\\GitYasmin\\Patrons-de-conceptions--Couche-services\\AM.Core.Interfaces\\AM.Core.Interfaces.csproj"
+              "D:\\Esprit\\4ème année\\Semestre 2\\.net\\AirM\\AM.Core.Interfaces\\AM.Core.Interfaces.csproj": {
+                "projectPath": "D:\\Esprit\\4ème année\\Semestre 2\\.net\\AirM\\AM.Core.Interfaces\\AM.Core.Interfaces.csproj"
               },
-              "C:\\Users\\Mouna\\Desktop\\Desktop\\sem2\\.net\\GitYasmin\\Patrons-de-conceptions--Couche-services\\AM.Core.Services\\AM.Core.Services.csproj": {
-                "projectPath": "C:\\Users\\Mouna\\Desktop\\Desktop\\sem2\\.net\\GitYasmin\\Patrons-de-conceptions--Couche-services\\AM.Core.Services\\AM.Core.Services.csproj"
+              "D:\\Esprit\\4ème année\\Semestre 2\\.net\\AirM\\AM.Core.Services\\AM.Core.Services.csproj": {
+                "projectPath": "D:\\Esprit\\4ème année\\Semestre 2\\.net\\AirM\\AM.Core.Services\\AM.Core.Services.csproj"
               },
-              "C:\\Users\\Mouna\\Desktop\\Desktop\\sem2\\.net\\GitYasmin\\Patrons-de-conceptions--Couche-services\\AM.Data\\AM.Data.csproj": {
-                "projectPath": "C:\\Users\\Mouna\\Desktop\\Desktop\\sem2\\.net\\GitYasmin\\Patrons-de-conceptions--Couche-services\\AM.Data\\AM.Data.csproj"
+              "D:\\Esprit\\4ème année\\Semestre 2\\.net\\AirM\\AM.Data\\AM.Data.csproj": {
+                "projectPath": "D:\\Esprit\\4ème année\\Semestre 2\\.net\\AirM\\AM.Data\\AM.Data.csproj"
               }
             }
           }
@@ -425,7 +425,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }

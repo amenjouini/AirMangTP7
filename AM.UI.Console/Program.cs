@@ -8,7 +8,7 @@ using AM.Core.Services;
 using AM.Data;
 
 ////TP1. Question 7
-//Console.WriteLine("Hello, World!");
+Console.WriteLine("Hello, World!");
 //Plane plane= new Plane();
 //plane.Capacity = 100;
 //plane.ManufactureDate = new DateTime(2000,1,1);
@@ -182,28 +182,28 @@ using AM.Data;
 //flightRepository.Commit();
 
 // Q6
-AMContext ctxt = new AMContext();
-IRepository<Plane> planeRepository = new Repository<Plane>(ctxt);
-PlaneService planeService = new PlaneService(planeRepository);
+//AMContext ctxt = new AMContext();
+//IRepository<Plane> planeRepository = new Repository<Plane>(ctxt);
+//PlaneService planeService = new PlaneService(planeRepository);
 
-Plane planeQ10 = new Plane()
-{
-    Capacity = 10,
-    ManufactureDate = new DateTime(1998, 09, 01, 10, 30, 0),
-    MyPlaneType = PlaneType.AIRBUS
+//Plane planeQ10 = new Plane()
+//{
+//    Capacity = 10,
+//    ManufactureDate = new DateTime(1998, 09, 01, 10, 30, 0),
+//    MyPlaneType = PlaneType.AIRBUS
 
-};
-planeService.Add(planeQ10);
+//};
+//planeService.Add(planeQ10);
 
-IRepository<Flight> flightRepository = new Repository<Flight>(ctxt);
-FlightService flightService = new FlightService(flightRepository);
-Flight flightQ12 = new Flight()
-{
-    Comment = "comment",
-    Departure = "Tunis",
-    Destination = "Canada",
-    EffectiveArrival = new DateTime(2023, 09, 01, 12, 0, 0),
-    EstimatedDuration = 60,
-    FlightDate = new DateTime(2023, 09, 01, 10, 30, 0)
-};
-flightService.Add(flightQ12);
+//IRepository<Flight> flightRepository = new Repository<Flight>(ctxt);
+//FlightService flightService = new FlightService(flightRepository);
+//Flight flightQ12 = new Flight()
+//{
+//    Comment = "comment",
+//    Departure = "Tunis",
+//    Destination = "Canada",
+//    EffectiveArrival = new DateTime(2023, 09, 01, 12, 0, 0),
+//    EstimatedDuration = 60,
+//    FlightDate = new DateTime(2023, 09, 01, 10, 30, 0)
+//};
+//flightService.Add(flightQ12);
